@@ -6,7 +6,8 @@
 박재욱(우사양반)님이 MariaDB를 ORACLE로 변환해서 구현하였고, [이곳에서](https://github.com/wodnr4330/board_sample_oracle) 얻을 수 있다.
 
 각 내용은 다음과 같이 구성되었다.
-
+안녕하세요
+<수정>
 ### 1. board Step 1 (board1) ###
 - List: 모든 게시물 출력
 - Form: 사용자 입력 내용 저장
